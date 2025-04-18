@@ -1,0 +1,26 @@
+{
+  "name": "genai-web",
+  "version": "1.0.0",
+  "description": "This is a project by me for a school competition. I originally just had HTML and CSS. Then I wanted to improve it so I migrated to Parcel. You could say it's still incomplete as I have lots of stuff to add and fix.",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Beaker/genai-web-prj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Code-Beaker/genai-web-prj/issues"
+  },
+  "homepage": "https://github.com/Code-Beaker/genai-web-prj#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "sharp": "^0.33.5"
+  }
+}
