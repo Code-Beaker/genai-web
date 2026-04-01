@@ -610,3 +610,16 @@ details p {
 .status {
   font-size: var(--size-0);
 }
+
+.footer__status {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.status-dot {
+  width: 0.75rem;
+  height: 0.75rem;
+  background-color: #28a745;
+  border-radius: 50%;
+}
