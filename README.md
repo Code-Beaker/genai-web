@@ -24,9 +24,6 @@ I had a limited amount of time to build this one. Took about 58.7 minutes(Max 1h
 - CSS
 - Parcel
 
-> [!NOTE]
-> This website is not responsive for mobile phones or smaller screens
-
 ## Images
 
 Some images are taken from Unsplash and some are generated using AI. The credits of these images belong to their respective owners.
